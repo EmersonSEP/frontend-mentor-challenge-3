@@ -1,3 +1,4 @@
+import { Footer } from "./components/Footer";
 import { Nav } from "./components/Nav";
 import imgHero from "./images/image-hero-mobile.png"
 
@@ -15,6 +16,9 @@ function App() {
 </div>
 <div className="flex items-center justify-center">
   <button className="border-2 border-black px-6 py-2 rounded-xl bg-black text-white">Lear more</button>
+</div>
+<div>
+  <Footer />
 </div>
   </>
   )
