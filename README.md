@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
-![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
+![https://github.com/EmersonSEP/frontend-mentor-challenge-3/blob/main/src/design/desktop-preview.jpg](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
