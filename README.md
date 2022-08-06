@@ -5,12 +5,9 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
 **Projeto ainda em contrução. Voce pode acompanhar por aqui:
 https://frontend-mentor-challenge-3.vercel.app/**
+
 
 ## The challenge
 
