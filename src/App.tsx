@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Nav />
-      <div className="w-screen flex justify-center items-center flex-col lg:flex-row-reverse lg:px-28 lg:gap-20 ">
+      <div className=" w-screen flex justify-center items-center flex-col lg:flex-row-reverse lg:px-28 lg:gap-20 ">
 
       <div className = 'hero-image-wrap lg:flex lg:p-4'>
             <picture>
@@ -30,7 +30,9 @@ function App() {
             processes, create team rituals, and watch productivity soar.
           </h3>
 
-        <Button />
+    <Button />
+
+
 
         <div className="">
           <Footer />

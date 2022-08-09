@@ -18,7 +18,6 @@ export function Drop () {
       <MenuHandler>
         <button className="">Feature</button>
       </MenuHandler>
-      
       <MenuList className="p-3 pt-6">
         <MenuItem className="flex flex-row items-center"><img  className ="mr-3 py-1.5"src={iconTodo}/>Todo List</MenuItem>
         <MenuItem className="flex flex-row items-center"><img  className ="mr-3 py-1.5"src={iconCal}/>Caldendar</MenuItem>

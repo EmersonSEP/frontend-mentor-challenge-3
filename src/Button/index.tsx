@@ -1,4 +1,4 @@
-export function Button() {
+export function Button():JSX.Element {
   return (
     <>
     <div className="flex items-center justify-center lg:ml-2 lg:self-start lg:mb-6">
